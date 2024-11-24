@@ -6,4 +6,4 @@ Love this???
 
 
 Checkout then ::
-https://github.com/Zee-sh-an/Zeeshan-s-Portfolio
+https://zee-sh-an.github.io/Zeeshan-s-Portfolio/
